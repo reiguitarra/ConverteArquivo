@@ -1,0 +1,13 @@
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\bin\Debug\netcoreapp3.1\CoverteArquivo.exe
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\bin\Debug\netcoreapp3.1\CoverteArquivo.deps.json
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\bin\Debug\netcoreapp3.1\CoverteArquivo.runtimeconfig.json
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\bin\Debug\netcoreapp3.1\CoverteArquivo.runtimeconfig.dev.json
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\bin\Debug\netcoreapp3.1\CoverteArquivo.dll
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\bin\Debug\netcoreapp3.1\CoverteArquivo.pdb
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\obj\Debug\netcoreapp3.1\CoverteArquivo.csprojAssemblyReference.cache
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\obj\Debug\netcoreapp3.1\CoverteArquivo.AssemblyInfoInputs.cache
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\obj\Debug\netcoreapp3.1\CoverteArquivo.AssemblyInfo.cs
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\obj\Debug\netcoreapp3.1\CoverteArquivo.csproj.CoreCompileInputs.cache
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\obj\Debug\netcoreapp3.1\CoverteArquivo.dll
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\obj\Debug\netcoreapp3.1\CoverteArquivo.pdb
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\CoverteArquivo\obj\Debug\netcoreapp3.1\CoverteArquivo.genruntimeconfig.cache

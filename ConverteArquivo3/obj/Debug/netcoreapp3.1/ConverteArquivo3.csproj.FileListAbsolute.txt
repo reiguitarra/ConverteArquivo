@@ -1,0 +1,13 @@
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\bin\Debug\netcoreapp3.1\ConverteArquivo3.exe
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\bin\Debug\netcoreapp3.1\ConverteArquivo3.deps.json
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\bin\Debug\netcoreapp3.1\ConverteArquivo3.runtimeconfig.json
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\bin\Debug\netcoreapp3.1\ConverteArquivo3.runtimeconfig.dev.json
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\bin\Debug\netcoreapp3.1\ConverteArquivo3.dll
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\bin\Debug\netcoreapp3.1\ConverteArquivo3.pdb
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\obj\Debug\netcoreapp3.1\ConverteArquivo3.csprojAssemblyReference.cache
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\obj\Debug\netcoreapp3.1\ConverteArquivo3.AssemblyInfoInputs.cache
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\obj\Debug\netcoreapp3.1\ConverteArquivo3.AssemblyInfo.cs
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\obj\Debug\netcoreapp3.1\ConverteArquivo3.csproj.CoreCompileInputs.cache
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\obj\Debug\netcoreapp3.1\ConverteArquivo3.dll
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\obj\Debug\netcoreapp3.1\ConverteArquivo3.pdb
+C:\Users\reinaldo.almeida.HMB\source\repos\CoverteArquivo\ConverteArquivo3\obj\Debug\netcoreapp3.1\ConverteArquivo3.genruntimeconfig.cache
